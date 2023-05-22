@@ -21,7 +21,7 @@ Base url
 
 ## Authentication
 
-Velstack uses API keys to `'authenticate'` requests. You can [register](https://dashboard.velstack.com/) or login to get yur API key.
+Velstack uses API keys to `'authenticate'` requests. You can [register](https://dashboard.velstack.com/) or login to get your API key.
 Eevery request made to this endpoint requires API key to the server as a GET parameter:.   
 
 ## Responses

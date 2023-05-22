@@ -1,8 +1,8 @@
-<p align="center"><a href="https://mnotify.com" target="_blank"><img src="https://dashboard.velstack.com/build/images/velstack/logo-white.png" width="200" alt="  Logo"></a></p>
+<p align="center"><a href="https://velstack.com" target="_blank"><img src="https://dashboard.velstack.com/build/images/velstack/logo-white.png" width="200" alt="  Logo"></a></p>
 
 <p align="center">
-<a href="https://github.com/sammyfort/mNotify-laravel"><img src="https://img.shields.io/badge/%3C%2F%3E-cURL%20-blue" alt="Build Status"></a>
-<a href="https://packagist.org/packages/velstack/mnotify"><img src="https://img.shields.io/github/license/sammyfort/mNotify-laravel"></a>
+<a href="https://github.com/velstack/"><img src="https://img.shields.io/badge/%3C%2F%3E-PHP%20-blue" alt="Build Status"></a>
+ 
 
  
 
@@ -93,7 +93,7 @@ All http responses are in json format that's every request to our endpoint must 
   
 ## Send Group SMS
 
-```shell
+```php
 <?php
   $url = "https://api.velstack.com/messaging/group/sms";
 
